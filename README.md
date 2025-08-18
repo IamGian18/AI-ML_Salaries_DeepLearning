@@ -3,14 +3,6 @@
 Este proyecto analiza un dataset de **salarios en el campo de la Inteligencia Artificial y Machine Learning**.  
 El objetivo es **explorar los patrones salariales, validar hipótesis estadísticas y construir modelos predictivos** que permitan comprender qué factores impactan en los ingresos de profesionales de AI/ML.  
 
-## 🚀 Contenido del Proyecto
-
-- **EDA (Exploratory Data Analysis)** con visualizaciones avanzadas.  
-- **Pruebas estadísticas y ANOVA** para validar diferencias significativas.  
-- **Regularización con Lasso** para selección de variables relevantes.  
-- **Análisis de Correspondencias Múltiples (MCA)** para datos categóricos.  
-- **Modelado predictivo con redes neuronales profundas (Deep Learning)**.  
-
 ---
 
 ## 🛠️ Tecnologías Utilizadas
