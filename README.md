@@ -11,7 +11,7 @@ El objetivo es **explorar los patrones salariales, validar hipótesis estadísti
 - Feature Engineering: Log Transformation (Skeweness), Box-Cox Transformation (Skewness), Label Encoding (Nominal Categorical Variables), One-Hot Encoding (Ordinal Categorical Variables)
 - Feature Selection: ANOVA, Post-Lasso
 - Modeling: Deep Learning (TensorFlow - Keras) - Dropout, Early Stopping
-- and more..
+- and more...
 
 ---
 
