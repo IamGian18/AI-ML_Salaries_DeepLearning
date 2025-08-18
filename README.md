@@ -15,27 +15,20 @@ El objetivo es **explorar los patrones salariales, validar hipótesis estadísti
 
 ## 🛠️ Tecnologías Utilizadas
 
-- Manipulación y estadística: `pandas`, `numpy`, `scipy`, `statsmodels`  
-- Visualización: `matplotlib`, `seaborn`, `plotly`  
-- Modelado ML clásico: `scikit-learn` (train_test_split, StandardScaler, LassoCV)  
-- Deep Learning: `tensorflow`, `keras`  
-- Análisis categórico: `prince`  
-- Interfaz y carga de datos: `tkinter`
+- Visualization: Plotly
+- Feature Engineering: Log Transformation (Skeweness), Box-Cox Transformation (Skewness), Label Encoding (Nominal Categorical Variables), One-Hot Encoding (Ordinal Categorical Variables)
+- Feature Selection: ANOVA, Post-Lasso
+- Modeling: Deep Learning (TensorFlow - Keras) - Dropout, Early Stopping
 - and more..
 
 ---
 
-## 💼 Flujo del Proyecto
+## 💼 Tabla de contenido
 
-- **Carga y limpieza de datos** con `pandas` y `tkinter`.  
-- **EDA** con `seaborn` y `plotly` para explorar tendencias salariales.  
-- **Pruebas estadísticas (ANOVA)** para identificar diferencias entre grupos.  
-- **Selección de variables** con `LassoCV`.  
-- **MCA** para reducir dimensionalidad de datos categóricos.  
-- **Modelos de predicción de salarios:**  
-- Regresión lineal  
-- Lasso Regression  
-- Red Neuronal Densa con `TensorFlow/Keras`  
-- **Evaluación de métricas  
+- **Descriptive Analysis** 
+- **Exploratory Data Analysis using Plotly**
+- **Data Preprocessing**
+- **Feature Selections**
+- **Modeling**  
 
 
